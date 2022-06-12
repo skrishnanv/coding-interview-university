@@ -269,7 +269,7 @@ If you're open in a code editor that understands markdown, you'll see everything
 
 Create a new branch so you can check items like this, just put an x in the brackets: [x]
 
-    Fork a branch and follow the commands below
+    [x] Fork a branch and follow the commands below
 
 Fork the GitHub repo https://github.com/jwasham/coding-interview-university by clicking on the Fork button.
 
